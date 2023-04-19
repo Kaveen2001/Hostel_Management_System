@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="bcprov-jdk15on-1.64">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/bcprov-jdk15on-1.64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/javax.persistence-api-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/fontawesomefx-8.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/commons-collections4-4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/jackson-core-2.12.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/commons-beanutils-1.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/castor-xml-1.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/TrayTester.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/commons-lang3-3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/jasperreports-6.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/itext-2.1.7.js8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/mysql-connector-java-8.0.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/ecj-3.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/controlsfx-8.40.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/castor-core-1.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/jackson-databind-2.12.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/jackson-annotations-2.12.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/new/jfoenix-8.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,5 @@
+package lk.ijse.hostel.util;
+
+public enum Routes {
+     LOGIN,MAIN_SCREEN,DASHBOARD,STUDENT,ROOM,STUDENT_REGISTRATION,REGISTER_DETAILS
+}

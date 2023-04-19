@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="fontawesomefx-commons-8.15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/fontawesomefx/fontawesomefx-commons-8.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/fontawesomefx/fontawesomefx-weathericons-2.0.10-5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/fontawesomefx/fontawesomefx-materialdesignfont-1.7.22-4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/fontawesomefx/fontawesomefx-materialicons-2.2.0-5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/fontawesomefx/fontawesomefx-fontawesome-4.7.0-5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/fontawesomefx/fontawesomefx-octicons-4.3.0-5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
